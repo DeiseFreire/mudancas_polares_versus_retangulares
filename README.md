@@ -1,4 +1,4 @@
-# Mudancas polares versus retangulares
+# Mudanças polares versus retangulares
 
 ∆x∆y e ∆r∆θ referem-se a mudanças nas posições descritas em coordenadas retangulares (x, y) e coordenadas polares (r, θ), respectivamente. Aqui está a relação deles para pequenas variações:
 

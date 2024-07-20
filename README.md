@@ -1,4 +1,6 @@
-# Mudanças polares versus retangulares
+## Mudanças polares versus retangulares
+
+**Problema:** Em  termos  de  pequenas  variações,  sem  utilizar  o  limite  dos  comprimentos  tendendo  a zero, qual é a relação entre ∆x∆y  e ∆r∆θ?
 
 ∆x∆y e ∆r∆θ referem-se a mudanças nas posições descritas em coordenadas retangulares (x, y) e coordenadas polares (r, θ), respectivamente. Aqui está a relação deles para pequenas variações:
 
